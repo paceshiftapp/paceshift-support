@@ -1,0 +1,5 @@
+Contact: mailto:paceshift.app@gmail.com
+Expires: 2027-09-18T23:59:59Z
+Preferred-Languages: en
+Canonical: https://paceshiftapp.github.io/paceshift-support/.well-known/security.txt
+Policy: https://paceshiftapp.github.io/paceshift-support/support.html
